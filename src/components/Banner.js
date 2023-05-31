@@ -75,7 +75,7 @@ const Banner = () => {
                     <a href="https://www.linkedin.com/in/kobepho/" target="_blank">
                       <FaLinkedin size='1.8rem' color='#ffa32c' />
                     </a>
-                    <a href="{PDF}" target="_blank">
+                    <a href={PDF} target="_blank">
                       <FaFileContract size='1.8rem' color="#ff7c8e" />
                     </a>
                     <a href="mailto:kobeypho@gmail.com" target="_blank">
