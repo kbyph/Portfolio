@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5c69aaeb.css",
-    "main.js": "/Portfolio/static/js/main.7b8d6090.js",
+    "main.js": "/Portfolio/static/js/main.66cb4549.js",
     "static/media/udycert.jpg": "/Portfolio/static/media/udycert.db832afe3d3e4e16574f.jpg",
     "static/media/smartbrain.png": "/Portfolio/static/media/smartbrain.d6ced5d13ff36f564736.png",
     "static/media/robofriends.png": "/Portfolio/static/media/robofriends.da33f98360e69f446b91.png",
@@ -10,13 +10,13 @@
     "static/media/ztmcert.jpg": "/Portfolio/static/media/ztmcert.f15aff6e1bc0d77717ac.jpg",
     "static/media/site-bg.jpg": "/Portfolio/static/media/site-bg.0fcddab92584acba1c5d.jpg",
     "static/media/about.png": "/Portfolio/static/media/about.24309f0516008e0a126d.png",
-    "static/media/KobePhoResume.pdf": "/Portfolio/static/media/KobePhoResume.7921227f4ad2789880fb.pdf",
+    "static/media/KobePhoResume.pdf": "/Portfolio/static/media/KobePhoResume.939c697be40e114ee834.pdf",
     "index.html": "/Portfolio/index.html",
     "main.5c69aaeb.css.map": "/Portfolio/static/css/main.5c69aaeb.css.map",
-    "main.7b8d6090.js.map": "/Portfolio/static/js/main.7b8d6090.js.map"
+    "main.66cb4549.js.map": "/Portfolio/static/js/main.66cb4549.js.map"
   },
   "entrypoints": [
     "static/css/main.5c69aaeb.css",
-    "static/js/main.7b8d6090.js"
+    "static/js/main.66cb4549.js"
   ]
 }
