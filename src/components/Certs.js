@@ -6,7 +6,7 @@ import { fadeIn } from '../variants';
 // Image
 import Img1 from '../assets/ucbcert.jpg';
 import Img2 from '../assets/ztmcert.jpg';
-import Img3 from '../assets/udycert.jpg';
+import Img3 from '../assets/reactcert.jpg';
 
 const Certs = () => {
   return (
@@ -93,7 +93,7 @@ const Certs = () => {
             {/* Image */}
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
               {/* Overlay */}
-              <a href='https://www.udemy.com/certificate/UC-98f43ba1-aa44-4bc7-a0ee-d98f4bf65234/' target="_blank">
+              <a href='https://www.codecademy.com/profiles/KBYPH/certificates/af00e5032d0a68cc84879983f5d8333b' target="_blank">
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               </a>
               {/* Image */}
@@ -104,12 +104,12 @@ const Certs = () => {
               {/* Pre-Title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
                 <span className='text-gradient'>
-                Udemy
+                Codecademy
                 </span>
               </div>
               {/* Title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3xl text-white'>The Complete Digital Marketing Course</span>
+                <span className='text-3xl text-white'>Learn React Course</span>
               </div>            
             </div>
             
