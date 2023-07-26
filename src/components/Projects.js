@@ -6,7 +6,7 @@ import { fadeIn } from '../variants';
 // Image
 import Img4 from '../assets/robofriends.png';
 import Img5 from '../assets/smartbrain.png';
-import Img6 from '../assets/comingsoon.jpg';
+import Img6 from '../assets/vibetopia.png';
 
 const Projects = () => {
   return (
@@ -93,17 +93,24 @@ const Projects = () => {
             {/* Image */}
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
               {/* Overlay */}
-              <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'>
-              </div>
+              <a href='https://kbyph.github.io/Vibetopia/' target="_blank">
+              <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
+              </a>
               {/* Image */}
-              <img src={Img6} 
+              <img 
+                   className='group-hover:scale-125 transition-all duration-500'
+                   src={Img6} 
                    alt='' 
               />
               {/* Pre-Title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+              <span className='text-gradient'>
+              Front-End React Project
+              </span>
               </div>
               {/* Title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+              <span className='text-3xl text-white'>Vibetopia</span>
               </div>            
             </div>
         </motion.div>
