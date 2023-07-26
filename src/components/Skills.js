@@ -10,15 +10,15 @@ import { fadeIn } from '../variants';
 const skills = [
     {
         name: 'Languages',
-        description: 'HTML  ◦  CSS  ◦  Javascript  ◦  SQL  ◦  Python'
+        description: 'HTML  ◦  CSS  ◦  Javascript  ◦  JSX  ◦  SQL  ◦  Python  ◦  SCSS  ◦  R'
     },
     {
         name: 'Frameworks & Libraries',
-        description: 'React  ◦  Redux  ◦  Hooks  ◦  Node.js  ◦  Next.js  ◦  Email.js  ◦  Tailwinds.css  ◦  NPM  ◦  Bootstrap  ◦  pgAdmin'
+        description: 'React  ◦  Redux  ◦  Hooks  ◦  Node.js  ◦  Email.js  ◦  Tailwinds.css  ◦  NPM  ◦  Bootstrap  ◦  pgAdmin'
     },
     {
         name: 'Other',
-        description: 'Git  ◦  Github  ◦  Rest APIs  ◦  Heroku  ◦  Postman API  ◦  Visual Studio Code'
+        description: 'Git  ◦  Github  ◦  Rest APIs  ◦  Heroku  ◦  Postman API  ◦  Visual Studio Code  ◦  MongoDB  ◦  AWS  ◦  Tableau  ◦  PostgreSQL'
     },        
 ];
 
